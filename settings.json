@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ServerMati.aternos.me",
-    "port": 61761,
+    "ip": "slobtest1.aternos.me",
+    "port": 27586,
     "version": "",
     "try-creative": false
   },
